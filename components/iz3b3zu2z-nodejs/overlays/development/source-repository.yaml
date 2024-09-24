@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: iz3b3zu2z-nodejs-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/iz3b3zu2z-nodejs
